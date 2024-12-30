@@ -48,7 +48,7 @@ export default function ProductHighlight() {
             <h3 className="text-3xl font-bold mb-4">AstroTech Model X</h3>
             <p className="text-xl mb-6">
               Experience the cosmos like never before with our cutting-edge Model X telescope.
-              Featuring advanced optics and computerized tracking, it's perfect for both beginners and seasoned stargazers.
+              Featuring advanced optics and computerized tracking, it&apos;s perfect for both beginners and seasoned stargazers.
             </p>
             <motion.button
               whileHover={{ scale: 1.05 }}
