@@ -28,20 +28,19 @@ export default function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, delay: 0.5 }}
         style={{ y: textY }}
-        className="relative z-10 text-center text-white"
+        className="relative z-10 text-center text-white px-4"
       >
         <motion.h1
-          className="text-9xl font-bold mb-4
+          className="text-5xl md:text-9xl font-bold mb-4
           bg-gradient-to-r from-sky-100 via-sky-400 to-sky-700 text-transparent bg-clip-text"
           initial={{ scale: 0.5, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
           transition={{ duration: 0.5, delay: 1 }}
-          
         >
           AstroTech
         </motion.h1>
         <motion.p
-          className="text-2xl"
+          className="text-lg md:text-2xl"
           initial={{ scale: 0.5, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
           transition={{ duration: 0.5, delay: 1.2 }}
