@@ -19,7 +19,7 @@ const ProductPage = () => {
       />
       <p className="text-xl mb-4">
         Experience the cosmos like never before with our cutting-edge Model X telescope.
-        Featuring advanced optics and computerized tracking, it's perfect for both beginners and seasoned stargazers.
+        Featuring advanced optics and computerized tracking, it&apos;s perfect for both beginners and seasoned stargazers.
       </p>
       <h2 className="text-2xl font-bold mb-4">Key Features:</h2>
       <ul className="list-disc list-inside mb-6">

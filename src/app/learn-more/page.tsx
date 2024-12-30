@@ -51,10 +51,10 @@ export default function LearnMorePage() {
           <motion.div variants={itemVariants}>
             <h2 className="text-3xl font-semibold mb-4">Why Choose AstroTech?</h2>
             <p className="text-gray-700 mb-6">
-              At AstroTech, we're passionate about bringing the wonders of the universe closer to you. Our state-of-the-art telescopes are designed to provide unparalleled views of celestial objects, from the craters on the Moon to distant galaxies.
+              At AstroTech, we&apos;re passionate about bringing the wonders of the universe closer to you. Our state-of-the-art telescopes are designed to provide unparalleled views of celestial objects, from the craters on the Moon to distant galaxies.
             </p>
             <p className="text-gray-700 mb-6">
-              Whether you're a beginner stargazer or an experienced astronomer, our range of telescopes offers something for everyone. With easy-to-use interfaces, advanced tracking systems, and high-quality optics, AstroTech telescopes make exploring the night sky an unforgettable experience.
+              Whether you&apos;re a beginner stargazer or an experienced astronomer, our range of telescopes offers something for everyone. With easy-to-use interfaces, advanced tracking systems, and high-quality optics, AstroTech telescopes make exploring the night sky an unforgettable experience.
             </p>
             <motion.button
               whileHover={{ scale: 1.05 }}
